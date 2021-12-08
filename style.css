@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen&family=Source+Code+Pro&display=swap");
+
+body {
+  font-family: "Oxygen", sans-serif;
+  background-color: snow;
+}
+
+header {
+  font-family: "Source Code Pro", monospace;
+}
+
+a {
+  text-decoration: none;
+}
+h2 {
+  font-weight: 600;
+}
